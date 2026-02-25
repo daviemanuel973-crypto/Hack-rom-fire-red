@@ -1,0 +1,36 @@
+{
+  "name": "pokemon-fire-red-hack-gen9",
+  "version": "1.0.0",
+  "description": "Hack ROM de Pokémon Fire Red com todas as 9 gerações, dificuldade moderada e randomização inteligente",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "hack": "node main.js",
+    "test": "node test.js",
+    "validate": "node validate_rom.js"
+  },
+  "keywords": [
+    "pokemon",
+    "fire-red",
+    "hack-rom",
+    "gba",
+    "randomizer",
+    "9-generations",
+    "javascript"
+  ],
+  "author": "Skywork Agent",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "local"
+  },
+  "bugs": {
+    "url": "local"
+  },
+  "homepage": "local"
+}
